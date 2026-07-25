@@ -1,6 +1,6 @@
 ### **🚀 Sobre Mí**
 
-* 🎓 **Formación:** Técnico en Desarrollo de Software por el **SENA** & Técnico en Monitoreo Ambiental.  
+* 🎓 **Formación:** Técnico en Desarrollo de Software por el **SENA** 
 * ⚙️ **Enfoque Principal:** Desarrollo Backend con **PHP / Laravel** y diseño de arquitectura de bases de datos relacionales en **MySQL**.  
 * 🛠️ **Metodologías:** Levantamiento y gestión de requerimientos de software, modelado UML, diagramas Entidad-Relación y control de versiones con **Git/GitHub**.  
 * 💡 **Fortalezas:** Pensamiento analítico, resolución lógica de problemas, alta capacidad de adaptabilidad y trabajo en equipo.  
@@ -18,10 +18,9 @@
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 | :---- | :---- | :---- | :---- |
-| 💻 **Sistema de Gestión Backend** | Plataforma para administración de requerimientos, consultas optimizadas y control de datos. | Laravel MySQL PHP | [Ver Repositorio](https://github.com/tu-usuario/proyecto-backend) |
-| 🚲 **API de Movilidad / E-Bikes** | Desarrollo de API RESTful para gestión y reservas de bicicletas eléctricas. | Laravel REST API MySQL | [Ver Repositorio](https://github.com/tu-usuario/ebike-api) |
-| 📄 **Portafolio / CV Web** | Hoja de vida interactiva y responsive en formato Web para presentación técnica. | HTML5 CSS3 JS | [Ver Demo](https://github.com/tu-usuario/cv-desarrollador) |
-
+| 💻 **Sistema de Gestión Backend** | Plataforma para administración de requerimientos, consultas optimizadas y control de datos. | Laravel MySQL PHP 
+| 🚲 **API de Movilidad / E-Bikes** | Desarrollo de API RESTful para gestión y reservas de bicicletas eléctricas. | Laravel REST API MySQL 
+| 📄 **Portafolio / CV Web** | Hoja de vida interactiva y responsive en formato Web para presentación técnica. | HTML5 CSS3 JS 
 ### **📊 Estadísticas de GitHub**
 
 ### **🌟 Habilidades Blandas & Competencias**
